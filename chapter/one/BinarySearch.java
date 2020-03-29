@@ -8,8 +8,6 @@ import java.util.Arrays;
 
 /**
  * 1.1.10 二分查找
- * @ClassName BinarySearch
- * @Description TODO
  * @Author HHQ
  * @Date 2020/3/29 3:19
  * @Version 1.0
